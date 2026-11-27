@@ -13,7 +13,7 @@
         <mxCell id="PtIJeQ7b9b462mk7aoy9-3" value="Other Operation Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="190" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PtIJeQ7b9b462mk7aoy9-4" value="Other Operation Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PtIJeQ7b9b462mk7aoy9-4" value="Natural Downtime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="290" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
