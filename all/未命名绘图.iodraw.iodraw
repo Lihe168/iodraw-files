@@ -37,6 +37,9 @@
         <mxCell id="KuAGd7gWX5V15bFvfNoP-12" value="Drilling mud Circulation Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="150" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KuAGd7gWX5V15bFvfNoP-13" value="Drill Bit Change Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="190" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
