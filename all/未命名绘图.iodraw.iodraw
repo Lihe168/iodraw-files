@@ -19,7 +19,7 @@
         <mxCell id="PtIJeQ7b9b462mk7aoy9-5" value="Dismentling &amp;amp; Transportation Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="390" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PtIJeQ7b9b462mk7aoy9-6" value="Dismentling &amp;amp; Transportation Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PtIJeQ7b9b462mk7aoy9-6" value="Moblilization &amp;amp; Demobilization Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="490" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
