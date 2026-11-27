@@ -31,6 +31,12 @@
         <mxCell id="PtIJeQ7b9b462mk7aoy9-7" value="Rig up &amp;amp; Rig down Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="30" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PtIJeQ7b9b462mk7aoy9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="110" as="sourcePoint" />
+            <mxPoint x="705" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PtIJeQ7b9b462mk7aoy9-8" value="Drillling Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="90" width="130" height="40" as="geometry" />
         </mxCell>
