@@ -37,6 +37,9 @@
         <mxCell id="PtIJeQ7b9b462mk7aoy9-11" value="natural factor, military operations, reorganization and training, regional work adjustments, etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="310" width="340" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PtIJeQ7b9b462mk7aoy9-12" value="Drillling Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
