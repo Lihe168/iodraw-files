@@ -16,6 +16,9 @@
         <mxCell id="KuAGd7gWX5V15bFvfNoP-4" value="Footage Operation Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="170" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KuAGd7gWX5V15bFvfNoP-5" value="Well Logging Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
