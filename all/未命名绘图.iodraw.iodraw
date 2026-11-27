@@ -32,7 +32,10 @@
           <mxGeometry x="550" y="150" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PtIJeQ7b9b462mk7aoy9-10" value="test, downhole operation, test production, put into production, reservoir stimulation&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="220" width="360" height="40" as="geometry" />
+          <mxGeometry x="550" y="220" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PtIJeQ7b9b462mk7aoy9-11" value="test, downhole operation, test production, put into production, reservoir stimulation&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="340" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
